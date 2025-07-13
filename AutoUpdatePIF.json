@@ -1,5 +1,9 @@
 {
-  "packageName": "com.ifvank.pif",
-  "version": "2025.07.11",
-  "url": "https://github.com/ifvankID/AutoUpdtPIF/raw/refs/heads/main/release/OplusKey.apk"
+  "enabled": true,
+  "apk_url": "https://github.com/ifvankID/auto-update-pif/raw/main/Pif.apk",
+  "latest_version": "1.2.5",
+  "package_name": "com.ifvank.pif",
+  "delay_seconds": 15,
+  "log_path": "/data/vendor/autoupdate.log",
+  "apk_path": "/data/local/tmp/Pif.apk"
 }
