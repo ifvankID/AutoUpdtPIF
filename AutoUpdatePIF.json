@@ -4,7 +4,7 @@
     "version_code": 20250726,
     "version_name": "2025.07.26",
     "apk_url": "https://github.com/ifvankID/AutoUpdtPIF/raw/refs/heads/main/release/OplusKey.apk",
-    "keybox_url": "https://raw.githubusercontent.com/ifvankID/AutoUpdtPIF/refs/heads/main/release/keybox.xml",
+    "keybox_url": "https://github.com/ifvankID/AutoUpdtPIF/raw/refs/heads/main/release/keybox.xml",
     "description": "PIF Updater",
     "force_update": true,
     "min_sdk": 28,
