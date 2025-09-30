@@ -1,12 +1,21 @@
 <?xml version="1.0"?>
 <AndroidAttestation>
 <NumberOfKeyboxes>1</NumberOfKeyboxes>
-<Keybox DeviceID="ifvank/keybox"><Key algorithm="ecdsa"><PrivateKey format="pem">-----BEGIN EC PRIVATE KEY-----
+<Keybox DeviceID="Private keybox. Join my group: t.me/yuriiroot">
+<Key algorithm="ecdsa">
+<PrivateKey format="pem">
+-----BEGIN EC PRIVATE KEY-----
+<!--https://t.me/yuriiroot-->
 MHcCAQEEIFl4y0MLhmmAPrsWegXAxWIFkqcB2nz9mkmXi3Ui5cMGoAoGCCqGSM49
 AwEHoUQDQgAEvxvu/9/BCRbqT9q+l3kDX5VfVLjqnI9zJuLuBSxKh4ox4DdB1+a6
 airnjZw4MbqAhB6VpErWtinuGbCxszPaCQ==
 -----END EC PRIVATE KEY-----
-</PrivateKey><CertificateChain><NumberOfCertificates>3</NumberOfCertificates><Certificate format="pem">-----BEGIN CERTIFICATE-----
+<!--https://t.me/yuriiroot-->
+</PrivateKey>
+<CertificateChain>
+<NumberOfCertificates>3</NumberOfCertificates>
+<Certificate format="pem">
+-----BEGIN CERTIFICATE-----
 MIIB9DCCAXmgAwIBAgIQU7dM0yusgHvOvlp7AQbMxjAKBggqhkjOPQQDAjA5MQww
 CgYDVQQMDANURUUxKTAnBgNVBAUTIDcwOTEyZGY0NjEwNGZhYWU5NDc4NjRlNTgw
 NGYxZjhkMB4XDTIwMDkyODIwMjc1NloXDTMwMDkyNjIwMjc1NlowOTEMMAoGA1UE
@@ -19,7 +28,10 @@ BDAKBggqhkjOPQQDAgNpADBmAjEAtBB7vnGKzQ/ne1u7B/NDWOJiB5z/oTzL2epu
 vObja+m1wrpmbM2wKrpwJMOjV137AjEAkil2xNzYn/kDleAkH5/Wr/7ggpg5KkhD
 UeE2dPGsVic+iDZMYx+bDGREDvwMt9+y
 -----END CERTIFICATE-----
-</Certificate><Certificate format="pem">-----BEGIN CERTIFICATE-----
+</Certificate>
+<Certificate format="pem">
+-----BEGIN CERTIFICATE-----
+<!--https://t.me/yuriiroot-->
 MIIDkzCCAXugAwIBAgIQNTAX5z3CBac6nD3hQiMDcDANBgkqhkiG9w0BAQsFADAb
 MRkwFwYDVQQFExBmOTIwMDllODUzYjZiMDQ1MB4XDTIwMDkyODIwMjUwMloXDTMw
 MDkyNjIwMjUwMlowOTEMMAoGA1UEDAwDVEVFMSkwJwYDVQQFEyA3MDkxMmRmNDYx
@@ -41,7 +53,10 @@ q4CBJByKFJtVANOVj+neFNxc2sQgeTT33yYNKbe4b5bm7Ki1FbrhFVckpzUGDnKs
 gL+AxvALWOoryDGwNbJiW8PRiD3HHByiMvSEQ7e7BSc2KjbsaWbCfYZAMZJEhEsc
 P1l8lcUVuA==
 -----END CERTIFICATE-----
-</Certificate><Certificate format="pem">-----BEGIN CERTIFICATE-----
+</Certificate>
+<Certificate format="pem">
+-----BEGIN CERTIFICATE-----
+<!--https://t.me/yuriiroot-->
 MIIFHDCCAwSgAwIBAgIJANUP8luj8tazMA0GCSqGSIb3DQEBCwUAMBsxGTAXBgNV
 BAUTEGY5MjAwOWU4NTNiNmIwNDUwHhcNMTkxMTIyMjAzNzU4WhcNMzQxMTE4MjAz
 NzU4WjAbMRkwFwYDVQQFExBmOTIwMDllODUzYjZiMDQ1MIICIjANBgkqhkiG9w0B
@@ -71,7 +86,14 @@ jm6xNIrw2OocrDKsudk/okr/AwqEyPKw9WnMlQgLIKw1rODG2NvU9oR3GVGdMkUB
 ZutL8VuFkERQGt6vQ2OCw0sV47VMkuYbacK/xyZFiRcrPJPb41zgbQj9XAEyLKCH
 ex0SdDrx+tWUDqG8At2JHA==
 -----END CERTIFICATE-----
-</Certificate></CertificateChain></Key><Key algorithm="rsa"><PrivateKey format="pem">-----BEGIN RSA PRIVATE KEY-----
+<!--https://t.me/yuriiroot-->
+</Certificate>
+</CertificateChain>
+</Key>
+<Key algorithm="rsa">
+<PrivateKey format="pem">
+-----BEGIN RSA PRIVATE KEY-----
+<!--https://t.me/yuriiroot-->
 MIIG5gIBAAKCAYEA7BWhvmI5WVmSiLQDrsPHpvnaD6n+jQfKRCuy8cByu5o6DpHR
 kXOqsnLpoICXXC1Sah3QigN/S0ZECFvhDPsgXPQEbTh7m+g7S+Ftwf6KFQaB/4iM
 aTut1VpmbpdJlz3OjYYzuLE8ESwibP6kqzcs4mAgFAl/WMZQuIPE4yI7D0oBbZiz
@@ -110,7 +132,12 @@ pD4+EWxmHZyHxwq1+FPJ6NQV+fGOWZ3ZbMaDp1Ml88WfBLL/LDg+OQtvFbUzhCq0
 BVe7/q9UYBDSHvVfZYOKBaQzhWI7bpRDFzWzFfdHqzGOl43S9uamQSLMKBjWaaF0
 nE1+aIo7l01RtaBY+bJfamXAPY9AInmMXFgoGXe6LW3C9aonmFTLFesv
 -----END RSA PRIVATE KEY-----
-</PrivateKey><CertificateChain><NumberOfCertificates>3</NumberOfCertificates><Certificate format="pem">-----BEGIN CERTIFICATE-----
+</PrivateKey>
+<CertificateChain>
+<NumberOfCertificates>3</NumberOfCertificates>
+<Certificate format="pem">
+-----BEGIN CERTIFICATE-----
+<!--https://t.me/yuriiroot-->
 MIIE3zCCAsegAwIBAgIQWsR75c1lDfAib0NIemHr5zANBgkqhkiG9w0BAQsFADA5
 MQwwCgYDVQQMDANURUUxKTAnBgNVBAUTIDcwOTEyZGY0NjEwNGZhYWU5NDc4NjRl
 NTgwNGYxZjhkMB4XDTIwMDkyODIwMjc1NVoXDTMwMDkyNjIwMjc1NVowOTEMMAoG
@@ -139,7 +166,10 @@ Y0WSNmUmLZ657ZONUSGy4O4yum0zi+vjVh4W1TppIhBsLGwV9bxO9A5E3keAeChG
 PDZv8OkZQUHTzEjmo1QGFsw5ODeutoLWKjkRrw7aiR2YSFO+59D9uOZzRZKG1Dgw
 eplw
 -----END CERTIFICATE-----
-</Certificate><Certificate format="pem">-----BEGIN CERTIFICATE-----
+</Certificate>
+<Certificate format="pem">
+-----BEGIN CERTIFICATE-----
+<!--https://t.me/yuriiroot-->
 MIIFQjCCAyqgAwIBAgIRAIedW9yH79+GM2LaZKGXyj8wDQYJKoZIhvcNAQELBQAw
 GzEZMBcGA1UEBRMQZjkyMDA5ZTg1M2I2YjA0NTAeFw0yMDA5MjgyMDI0NDVaFw0z
 MDA5MjYyMDI0NDVaMDkxDDAKBgNVBAwMA1RFRTEpMCcGA1UEBRMgNzA5MTJkZjQ2
@@ -170,7 +200,10 @@ IG9gLJbwzhIQInxkGenrlf0Lir6yGrmFWzICxw1/rF50nl5zirmCbkqw/LavgJdC
 GlVEweWG9R5mwwIh/cNfW4gFfnoywQbbUwMnEAJKyGzGQlIXUDQ95v/6hHBERmLY
 tjdE4oT9
 -----END CERTIFICATE-----
-</Certificate><Certificate format="pem">-----BEGIN CERTIFICATE-----
+</Certificate>
+<Certificate format="pem">
+-----BEGIN CERTIFICATE-----
+<!--https://t.me/yuriiroot-->
 MIIFHDCCAwSgAwIBAgIJANUP8luj8tazMA0GCSqGSIb3DQEBCwUAMBsxGTAXBgNV
 BAUTEGY5MjAwOWU4NTNiNmIwNDUwHhcNMTkxMTIyMjAzNzU4WhcNMzQxMTE4MjAz
 NzU4WjAbMRkwFwYDVQQFExBmOTIwMDllODUzYjZiMDQ1MIICIjANBgkqhkiG9w0B
@@ -200,5 +233,9 @@ jm6xNIrw2OocrDKsudk/okr/AwqEyPKw9WnMlQgLIKw1rODG2NvU9oR3GVGdMkUB
 ZutL8VuFkERQGt6vQ2OCw0sV47VMkuYbacK/xyZFiRcrPJPb41zgbQj9XAEyLKCH
 ex0SdDrx+tWUDqG8At2JHA==
 -----END CERTIFICATE-----
-</Certificate></CertificateChain></Key></Keybox>
+</Certificate>
+</CertificateChain>
+</Key>
+</Keybox>
 </AndroidAttestation>
+<!--https://t.me/yuriiroot-->
