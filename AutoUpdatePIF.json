@@ -1,8 +1,8 @@
 {
     "app_name": "OplusKey",
     "package_name": "com.ifvank.pif",
-    "version_code": 20251119,
-    "version_name": "2025.11.19",
+    "version_code": 20251125,
+    "version_name": "2025.11.25",
     "apk_url": "https://github.com/ifvankID/AutoUpdtPIF/raw/refs/heads/main/release/OplusKey.apk",
     "keybox_url": "https://github.com/ifvankID/AutoUpdtPIF/raw/refs/heads/main/release/keybox.xml",
     "description": "PIF Updater",
