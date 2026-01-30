@@ -1,16 +1,16 @@
 <?xml version='1.0' encoding='utf-8' standalone='yes' ?>
 <map>
-    <string name="product">caiman_beta</string>
+    <string name="product">komodo_beta</string>
     <string name="api_level">30</string>
     <string name="release">16</string>
-    <string name="security_patch">2025-01-05</string>
-    <string name="incremental">14560987</string>
+    <string name="security_patch">2026-01-05</string>
+    <string name="incremental">14691868</string>
     <string name="type">user</string>
     <string name="manufacturer">Google</string>
     <string name="tags">release-key</string>
-    <string name="fingerprint">google/caiman_beta/caiman:16/CP11.251114.006/14560987:user/release-keys</string>
-    <string name="model">Pixel 9</string>
-    <string name="id">CP11.251114.006</string>
+    <string name="fingerprint">google/komodo_beta/komodo:16/CP11.251209.007.A1/14691868:user/release-keys</string>
+    <string name="model">Pixel 9 Pro XL</string>
+    <string name="id">CP11.251209.007.A1</string>
     <string name="brand">google</string>
-    <string name="device">caiman</string>
+    <string name="device">komodo</string>
 </map>
