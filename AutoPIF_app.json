@@ -5,8 +5,8 @@
   "version_desc": "Update Keybox & Fingerprint for Pixel 9",
   "keybox_url": "https://raw.githubusercontent.com/ifvankID/AutoUpdtPIF/main/release/keybox.xml",
   "fingerprint_url": "https://raw.githubusercontent.com/ifvankID/AutoUpdtPIF/refs/heads/main/release/fingerprint.xml",
-"service_enabled": false,
-  "message_dialog": "Maintenance Server. Harap tunggu update berikutnya dan yah lagi malas."
+"service_enabled": true,
+  "message_dialog": "Maintenance Server."
 }
 
   
