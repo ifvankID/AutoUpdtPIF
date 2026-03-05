@@ -1,7 +1,7 @@
 {
   "date": "2026-02-27",
   "version": 13,
-  "message": "keybox - strong 🟢🟢🟢",
+  "message": "keybox - softban 🟢🟢🔴",
   "version_desc": "Update Keybox & Fingerprint for Pixel 9",
   "keybox_url": "https://raw.githubusercontent.com/ifvankID/AutoUpdtPIF/main/release/keybox.xml",
   "fingerprint_url": "https://raw.githubusercontent.com/ifvankID/AutoUpdtPIF/refs/heads/main/release/fingerprint.xml",
