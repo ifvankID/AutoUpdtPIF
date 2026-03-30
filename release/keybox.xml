@@ -84,7 +84,7 @@ wDB5y0USicV3YgYGmi+NZfhA4URSh77Yd6uuJOJENRaNVTzk
 -----END CERTIFICATE-----</Certificate>
 </CertificateChain>
 </Key>
-<Key algorithm="fateh7">
+<Key algorithm="rsa">
 <PrivateKey format="pem">
 -----BEGIN RSA PRIVATE KEY-----
 MIIG5QIBAAKCAYEAzX7ct7cDKw0ge1867LW11dEzgiRfR6NMNqHaX0EKaRG+vFy9
