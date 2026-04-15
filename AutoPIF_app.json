@@ -1,6 +1,6 @@
 {
-  "date": "2026-04-08",
-  "version": "2.2.1",
+  "date": "2026-04-15",
+  "version": "22",
   "message": "Better Lock Bootloader 👍🥴",
   "version_desc": "Update Keybox & Fingerprint for Pixel 9",
   "keybox_url": "https://raw.githubusercontent.com/ifvankID/AutoUpdtPIF/main/release/keybox.xml",
