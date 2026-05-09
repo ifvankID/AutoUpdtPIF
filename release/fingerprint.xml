@@ -1,16 +1,16 @@
 <?xml version='1.0' encoding='utf-8' standalone='yes' ?>
 <map>
-    <string name="product">blazer_beta</string>
+    <string name="product">komodo_beta</string>
     <string name="api_level">30</string>
-    <string name="release">16</string>
-    <string name="security_patch">2026-03-05</string>
-    <string name="incremental">15063635</string>
+    <string name="release">17</string>
+    <string name="security_patch">2026-04-05</string>
+    <string name="incremental">15199860</string>
     <string name="type">user</string>
     <string name="manufacturer">Google</string>
-    <string name="tags">release-key</string>
-    <string name="fingerprint">google/blazer_beta/blazer:17/CP21.260306.017/15063635:user/release-keys</string>
-    <string name="model">Pixel 10 Pro</string>
-    <string name="id">CP21.260306.017</string>
+    <string name="tags">release-keys</string>
+    <string name="fingerprint">google/komodo_beta/komodo:17/CP21.260330.008/15199860:user/release-keys</string>
+    <string name="model">Pixel 9 Pro XL</string>
+    <string name="id">CP21.260330.008</string>
     <string name="brand">google</string>
-    <string name="device">blazer</string>
+    <string name="device">komodo</string>
 </map>
