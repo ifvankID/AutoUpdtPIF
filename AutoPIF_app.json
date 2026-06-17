@@ -1,6 +1,6 @@
 {
-  "date": "2026-05-31",
-  "version": "1.0.0.3",
+  "date": "2026-06-17",
+  "version": "1.0.0.4",
   "message": "",
   "version_desc": "Update Keybox & Fingerprint for Pixel 9",
   "keybox_url": "https://raw.githubusercontent.com/ifvankID/AutoUpdtPIF/main/release/keybox.xml",
