@@ -1,17 +1,16 @@
-
 <?xml version='1.0' encoding='utf-8' standalone='yes' ?>
 <map>
-    <string name="product">mustang_beta</string>
+    <string name="product">comet</string>
     <string name="api_level">30</string>
     <string name="release">17</string>
-    <string name="security_patch">2026-05-05</string>
-    <string name="incremental">15199860</string>
+    <string name="security_patch">2026-06-05</string>
+    <string name="incremental">15430684</string>
     <string name="type">user</string>
     <string name="manufacturer">Google</string>
     <string name="tags">release-keys</string>
-    <string name="fingerprint">google/mustang_beta/mustang:CANARY/ZP11.260417.009/15372612:user/release-keys</string>
-    <string name="model">Pixel 10 Pro XL</string>
-    <string name="id">ZP11.260417.009</string>
+    <string name="fingerprint">google/comet/comet:17/CP2A.260605.012/15430684:user/release-keys</string>
+    <string name="model">Pixel 9 Pro Fold</string>
+    <string name="id">CP2A.260605.012</string>
     <string name="brand">google</string>
-    <string name="device">mustang</string>
+    <string name="device">comet</string>
 </map>
